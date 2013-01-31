@@ -75,9 +75,6 @@
             }
 
             refresh(data);
-            setTimeout(function () {
-                refresh(data);
-            }, 100);
         },
 
         'next': function (node, data) {
