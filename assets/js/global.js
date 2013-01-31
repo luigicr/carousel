@@ -2,5 +2,5 @@
  * @author luis.monge
  */
 
-// Initialize Coverflow Carousel
+// Initialize Carousel
 $('#content').Carousel('init', {});
